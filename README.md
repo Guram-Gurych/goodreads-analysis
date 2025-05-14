@@ -31,8 +31,8 @@
 1. Клонируйте репозиторий и перейдите в директорию:
 
 ```bash
-git clone https://github.com/your_username/your_repo.git
-cd your_repo
+git clone git@github.com:Guram-Gurych/goodreads-analysis.git
+cd goodreads-analysis
 ```
 
 2. Установите виртуальное окружение и зависимости:
