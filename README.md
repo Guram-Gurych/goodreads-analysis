@@ -16,13 +16,14 @@
 ├── README.md               <- Описание проекта
 ├── .env                    <- Переменные окружения
 ├── requirements.txt        <- Список зависимостей
+├── .gitignote              <- Гитигнор
 ├── data/
 │   └── db.csv              <- Датасет
 ├── scripts/
-│   └── .py <- Скрипт сбора данных
+│   └── .py                 <- Скрипт для сбора данных
 ├── notebooks/
-│   └── .ipynb      <- Jupyter-ноутбук с анализом
-├── dashboard/
+│   └── .ipynb              <- Jupyter-ноутбук с анализом
+├── dashboard/   
 │   └── app.py              <- Дэшборд
 ```
 
